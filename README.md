@@ -6,12 +6,12 @@ the aim of this project to solve the puzzle with the least number of moves by us
 !!! the priority_queue works on .NET 6 !!!
 
 
-![](ScreenShots/img-1.png)
+![](screenshots/img-1.png)
 
-![](ScreenShots/img-2.png)
+![](screenshots/img-2.png)
 
-![](ScreenShots/img-3.png)
+![](screenshots/img-3.png)
 
-![](ScreenShots/img-4.png)
+![](screenshots/img-4.png)
 
-![](ScreenShots/img-5.png)
+![](screenshots/img-5.png)
